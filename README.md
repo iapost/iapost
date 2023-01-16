@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello there
 
-<!--
-**iapost/iapost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is John Apostolakis and I am a Software Developer. I graduated from School of Electrical & Computer Engineering in Technical University of Crete.
 
-Here are some ideas to get you started:
+Some of my projects are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [A website to send notifications about new film releases](https://github.com/iapost/film-website)
+
+- [A tool implementing the RSA encryption algorithm](https://github.com/iapost/rsa-tool)
+
+- [An implementation of UCS and IDA* searching algorithms](https://github.com/iapost/ucs-ida)
+
+
+
+## Contact me
+- Via [LinkedIn](https://www.linkedin.com/in/ioannis-apostolakis-57305625b)
