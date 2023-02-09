@@ -13,4 +13,4 @@ Some of my projects are:
 
 
 ## Contact me
-- Via LinkedIn: [https://www.linkedin.com/in/gianaposto](https://www.linkedin.com/in/gianaposto)
+- Via LinkedIn: [https://www.linkedin.com/in/iapost](https://www.linkedin.com/in/iapost)
