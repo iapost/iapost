@@ -1,6 +1,8 @@
-## Hello there
+## Hello
 
-My name is John Apostolakis and I am a Software Developer. I graduated from School of Electrical & Computer Engineering in Technical University of Crete.
+My name is John Apostolakis and I am a Software Engineer. 
+
+I graduated from School of Electrical & Computer Engineering at Technical University of Crete.
 
 Some of my projects are:
 
