@@ -6,6 +6,8 @@ I graduated from School of Electrical & Computer Engineering at Technical Univer
 
 Some of my projects are:
 
+- [A web service for searching through OpenAPI descriptions](https://github.com/iapost/oaql2)
+
 - [A website to send notifications about new film releases](https://github.com/iapost/film-website)
 
 - [A tool implementing the RSA encryption algorithm](https://github.com/iapost/rsa-tool)
